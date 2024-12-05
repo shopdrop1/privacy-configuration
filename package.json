@@ -23,7 +23,7 @@
     "mocha": "^9.2.2"
   },
   "dependencies": {
-    "node-fetch": "^3.2.10",
+    "node-fetch": "^3.3.2",
     "tldts": "^5.7.91"
   }
 }
